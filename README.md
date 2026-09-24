@@ -7,7 +7,8 @@ CampusFeast is a modern, mobile-first food-ordering web application built specif
 > This is a student-built demonstration project. All data is sample/demo data, no real payments are processed, and no real authentication is required.
 
 ---
-
+## VIEW THE PROJECT
+   https://campusfeast-web-appl-b97u.bolt.host
 ## Features
 
 ### Core Ordering Flow
